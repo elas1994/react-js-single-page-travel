@@ -1,6 +1,5 @@
 import React from "react";
 import "./css/SelectsImg.css";
-import img1 from "../assets/img3.jpg";
 
 const SelectsImg = ({ img, text }) => {
   return (

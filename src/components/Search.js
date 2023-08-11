@@ -48,7 +48,7 @@ const Search = () => {
             <h3 className="save">GET ADDITIONAL 7% OFF</h3>
             <p className="timer">12 HOURS LEFT!</p>
             <p className="offers">
-              <a href="#">VIEW ALL CURRENT OFFERS</a>
+              <a href="/">VIEW ALL CURRENT OFFERS</a>
             </p>
           </div>
 

@@ -4,8 +4,6 @@ import Video from "../assets/video2.mp4";
 import { BiSearch } from "react-icons/bi";
 
 const Hero = () => {
-  const assetsPath = "../assets/video4.mp4";
-
   return (
     <div className="hero">
       <video autoPlay loop muted id="video">
