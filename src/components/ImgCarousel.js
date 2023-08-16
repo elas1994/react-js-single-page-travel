@@ -27,47 +27,47 @@ const ImgCarousel = () => {
         stopOnHover={true}
       >
         <div>
-          <img src={img1} />
+          <img src={img1} alt="img" />
           <p className="legend">img1</p>
         </div>
 
         <div>
-          <img src={img2} />
+          <img src={img2} alt="img" />
           <p className="legend">img2</p>
         </div>
 
         <div>
-          <img src={img3} />
+          <img src={img3} alt="img" />
           <p className="legend">img3</p>
         </div>
 
         <div>
-          <img src={img9} />
+          <img src={img9} alt="img" />
           <p className="legend">img9</p>
         </div>
 
         <div>
-          <img src={img4} />
+          <img src={img4} alt="img" />
           <p className="legend">img4</p>
         </div>
 
         <div>
-          <img src={img5} />
+          <img src={img5} alt="img" />
           <p className="legend">img5</p>
         </div>
 
         <div>
-          <img src={img6} />
+          <img src={img6} alt="img" />
           <p className="legend">img6</p>
         </div>
 
         <div>
-          <img src={img7} />
+          <img src={img7} alt="img" />
           <p className="legend">img7</p>
         </div>
 
         <div>
-          <img src={img8} />
+          <img src={img8} alt="img" />
           <p className="legend">img8</p>
         </div>
       </Carousel>
