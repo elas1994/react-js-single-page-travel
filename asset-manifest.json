@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-js-single-page-travel/static/css/main.fce1cca8.css",
+    "main.js": "/react-js-single-page-travel/static/js/main.10e2ab1f.js",
+    "static/media/video2.mp4": "/react-js-single-page-travel/static/media/video2.860997015c5646e51778.mp4",
+    "static/media/img3.jpg": "/react-js-single-page-travel/static/media/img3.8ef6b530aa6e85e4e74e.jpg",
+    "static/media/img27.jpg": "/react-js-single-page-travel/static/media/img27.807e1ca8248aae630023.jpg",
+    "static/media/img16.jpg": "/react-js-single-page-travel/static/media/img16.b136d1ecd9e4645517c7.jpg",
+    "static/media/img24.jpg": "/react-js-single-page-travel/static/media/img24.3c72a72c1ad76524cc59.jpg",
+    "static/media/img8.jpg": "/react-js-single-page-travel/static/media/img8.733839147a4bfe076352.jpg",
+    "static/media/img23.jpg": "/react-js-single-page-travel/static/media/img23.0471650dbcf09910d369.jpg",
+    "static/media/img26.jpg": "/react-js-single-page-travel/static/media/img26.74e8152240034c5abbd4.jpg",
+    "static/media/img25.jpg": "/react-js-single-page-travel/static/media/img25.9d75425e9fc06fa89c4b.jpg",
+    "static/media/img4.jpg": "/react-js-single-page-travel/static/media/img4.8b6bcefa6df5381b9a03.jpg",
+    "static/media/img19.jpg": "/react-js-single-page-travel/static/media/img19.fdceb44f9a0e6d46eac3.jpg",
+    "static/media/img20.jpg": "/react-js-single-page-travel/static/media/img20.d2d7767bc9417df20985.jpg",
+    "static/media/img5.jpg": "/react-js-single-page-travel/static/media/img5.f0c95705e84a37b12a50.jpg",
+    "static/media/img21.jpg": "/react-js-single-page-travel/static/media/img21.0b467bebcd2805e38f9b.jpg",
+    "static/media/img22.jpg": "/react-js-single-page-travel/static/media/img22.364c7de7fcb3e7469584.jpg",
+    "static/media/img11.jpg": "/react-js-single-page-travel/static/media/img11.1e30514942c6f50bea09.jpg",
+    "static/media/img13.jpg": "/react-js-single-page-travel/static/media/img13.ee088b6ef17100d7f85f.jpg",
+    "static/media/img15.jpg": "/react-js-single-page-travel/static/media/img15.e6c4841f299365fdfa10.jpg",
+    "static/media/img17.jpg": "/react-js-single-page-travel/static/media/img17.726ded1de37915f83c71.jpg",
+    "static/media/img12.jpg": "/react-js-single-page-travel/static/media/img12.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/img14.jpg": "/react-js-single-page-travel/static/media/img14.9c3058f9a039c5a102a8.jpg",
+    "static/media/gold.png": "/react-js-single-page-travel/static/media/gold.42f7d8f40c346adfe3a7.png",
+    "index.html": "/react-js-single-page-travel/index.html",
+    "main.fce1cca8.css.map": "/react-js-single-page-travel/static/css/main.fce1cca8.css.map",
+    "main.10e2ab1f.js.map": "/react-js-single-page-travel/static/js/main.10e2ab1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fce1cca8.css",
+    "static/js/main.10e2ab1f.js"
+  ]
+}
